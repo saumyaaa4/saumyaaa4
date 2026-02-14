@@ -1,6 +1,6 @@
 # Hey there, I’m Saumya 👋
 
-I’m a B.Tech CSE (Data Science) student passionate about **AI, Machine Learning & Data Analytics**.  
+I’m a B.Tech CSE (Data Science) student passionate about **AI, Machine Learning, Deep Learning & Data Analytics**.  
 I love turning raw data into **meaningful insights** and building projects that solve **real-world problems**. ✨
 
 ---
@@ -21,7 +21,21 @@ I love turning raw data into **meaningful insights** and building projects that 
 ## 🔹 Projects & Highlights
 - **Insider Theft Detection System** – Detect anomalies in employee behavior  
 - **Customer Retention Optimization** – Predict churn and suggest strategies  
-- **Real-time Traffic Analysis & Dashboards** – Visualize live traffic data using Python & Excel  
+- **Real-time Traffic Analysis & Dashboards** – Visualize live traffic data using Python & Excel
+
+- --
+
+## 🔥 Featured Projects
+
+### 🔐 Insider Threat Detection System (Industry-Level)
+AI system that detects malicious insider activity using behavioral analytics, anomaly detection, and risk scoring.
+
+Tech used:
+- Python
+- Machine Learning (Isolation Forest, Autoencoder)
+- Pandas, Scikit-learn
+- Streamlit Dashboard
+- Generative AI for investigation summaries
 
 ---
 
