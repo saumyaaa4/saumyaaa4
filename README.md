@@ -6,9 +6,15 @@ I love turning raw data into **meaningful insights** and building projects that 
 ---
 
 ## 🔹 Skills
-- **Programming & Analysis:** Python, Pandas, NumPy, SQL, Excel, Power BI  
-- **Machine Learning & AI:** Linear Regression, Logistic Regression, Decision Tree, Random Forest, KNN, SVM, Naive Bayes, PCA, K-Means  
-- **Data Visualization & BI:** Matplotlib, Seaborn, Power BI dashboards  
+**Programming & Analysis**: Python, Pandas, NumPy, SQL (MySQL, PostgreSQL), Excel (Pivot Tables, VLOOKUP, Power Query), Power BI, Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA), Feature Engineering, Data Preprocessing
+
+**Machine Learning & AI**: Linear Regression, Logistic Regression, Decision Tree, Random Forest, KNN, SVM, Naive Bayes, PCA, K-Means, Isolation Forest, One-Class SVM (Anomaly Detection), Scikit-learn, Model Evaluation (Cross-Validation, ROC-AUC, Confusion Matrix), Hyperparameter Tuning (GridSearchCV), NLP (TF-IDF, Text Classification)
+
+**Deep Learning**: Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Autoencoders, TensorFlow, Keras, PyTorch (basics), Model Training & Optimization
+
+**Data Visualization & BI**: Matplotlib, Seaborn, Power BI Dashboards, Interactive Dashboards, Data Storytelling, KPI Reporting, Trend Analysis, Business Insights Generation
+
+**Tools & Technologies**: Git, GitHub, Streamlit, Jupyter Notebook, VS Code, REST APIs, Model Deployment Basics, Prompt Engineering, LLM APIs (OpenAI/Gemini basics)
 
 ---
 
