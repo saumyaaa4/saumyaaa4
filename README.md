@@ -1,41 +1,46 @@
-# Hey there, I’m Saumya 👋
+# Hey there, I’m Saumya 👋  
 
-I’m a B.Tech CSE (Data Science) student passionate about **AI, Machine Learning, Deep Learning & Data Analytics**.  
-I love turning raw data into **meaningful insights** and building projects that solve **real-world problems**. ✨
+I’m a **B.Tech CSE (Data Science)** student passionate about **AI, Machine Learning, Deep Learning & Data Analytics**.  
+I enjoy building scalable ML systems and turning complex data into actionable insights that solve real-world problems.
 
 ---
 
 ## 🔹 Skills
-**Programming & Analysis**: Python, Pandas, NumPy, SQL (MySQL, PostgreSQL), Excel (Pivot Tables, VLOOKUP, Power Query), Power BI, Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA), Feature Engineering, Data Preprocessing
 
-**Machine Learning & AI**: Linear Regression, Logistic Regression, Decision Tree, Random Forest, KNN, SVM, Naive Bayes, PCA, K-Means, Isolation Forest, One-Class SVM (Anomaly Detection), Scikit-learn, Model Evaluation (Cross-Validation, ROC-AUC, Confusion Matrix), Hyperparameter Tuning (GridSearchCV), NLP (TF-IDF, Text Classification)
+### 💻 Programming & Data Analysis  
+Python, Pandas, NumPy, SQL (MySQL, PostgreSQL), Excel (Pivot Tables, VLOOKUP, Power Query), Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA), Feature Engineering, Data Preprocessing  
 
-**Deep Learning**: Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Autoencoders, TensorFlow, Keras, PyTorch (basics), Model Training & Optimization
+### 🤖 Machine Learning & AI  
+Linear & Logistic Regression, Decision Trees, Random Forest, KNN, SVM, Naive Bayes, PCA, K-Means, Isolation Forest, One-Class SVM (Anomaly Detection), Scikit-learn, Model Evaluation (ROC-AUC, Confusion Matrix, Cross-Validation), Hyperparameter Tuning (GridSearchCV), NLP (TF-IDF, Text Classification)  
 
-**Data Visualization & BI**: Matplotlib, Seaborn, Power BI Dashboards, Interactive Dashboards, Data Storytelling, KPI Reporting, Trend Analysis, Business Insights Generation
+### 🧠 Deep Learning  
+ANN, CNN, RNN, Autoencoders, TensorFlow, Keras, PyTorch (basics), Model Training & Optimization  
 
-**Tools & Technologies**: Git, GitHub, Streamlit, Jupyter Notebook, VS Code, REST APIs, Model Deployment Basics, Prompt Engineering, LLM APIs (OpenAI/Gemini basics)
+### 📊 Visualization & BI  
+Matplotlib, Seaborn, Power BI, KPI Reporting, Data Storytelling, Trend Analysis  
+
+### 🛠 Tools & Technologies  
+Git, GitHub, Jupyter Notebook, VS Code, Streamlit, REST APIs, Model Deployment Basics, Prompt Engineering  
 
 ---
 
-## 🔹 Projects & Highlights
-- **Insider Theft Detection System** – Detect anomalies in employee behavior  
-- **Customer Retention Optimization** – Predict churn and suggest strategies  
-- **Real-time Traffic Analysis & Dashboards** – Visualize live traffic data using Python & Excel
+# 🔥 Featured Project
 
-- --
+## 🧠 Privacy-Preserving Federated Learning Pipeline
 
-## 🔥 Featured Projects
+Built a distributed deep learning system using **TensorFlow Federated** where multiple clients train models locally and share only model updates with a central server using Federated Averaging.
 
-### 🔐 Insider Threat Detection System (Industry-Level)
-AI system that detects malicious insider activity using behavioral analytics, anomaly detection, and risk scoring.
+### 🚀 Key Highlights
+- Simulated multi-client distributed training  
+- Implemented secure weight aggregation (Federated Averaging)  
+- Achieved **96.7% global accuracy on MNIST**  
+- Demonstrated privacy-preserving AI model training without sharing raw data  
+- Designed a modular and scalable architecture for real-world distributed environments  
 
-Tech used:
-- Python
-- Machine Learning (Isolation Forest, Autoencoder)
-- Pandas, Scikit-learn
-- Streamlit Dashboard
-- Generative AI for investigation summaries
+### 🛠 Tech Stack
+Python, TensorFlow, TensorFlow Federated, NumPy, Scikit-learn, Matplotlib  
+
+📌 Focus Areas: Distributed Learning, Privacy-Preserving AI, Deep Learning Systems  
 
 ---
 
@@ -45,4 +50,4 @@ Tech used:
 
 ---
 
-✨ **Fun fact:** I love turning data into magic 🐍📊 and exploring new AI/ML adventures!
+✨ I’m actively seeking opportunities in **AI/ML roles** where I can contribute to building intelligent, scalable, and impactful systems.
