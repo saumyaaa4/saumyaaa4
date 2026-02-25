@@ -1,53 +1,64 @@
-# Hey there, I’m Saumya 👋  
+# 👋 Hi, I’m Saumya Bhagat  
 
-I’m a **B.Tech CSE (Data Science)** student passionate about **AI, Machine Learning, Deep Learning & Data Analytics**.  
-I enjoy building scalable ML systems and turning complex data into actionable insights that solve real-world problems.
+🎓 B.Tech CSE (Data Science) | 💡 Aspiring AI/ML Engineer  
 
----
+I build **end-to-end Machine Learning systems** that transform complex data into scalable, high-impact solutions. My interests include **Distributed AI, Deep Learning, NLP, and Applied Machine Learning**, with a strong focus on model performance, optimization, and real-world deployment.
 
-## 🔹 Skills
-
-### 💻 Programming & Data Analysis  
-Python, Pandas, NumPy, SQL (MySQL, PostgreSQL), Excel (Pivot Tables, VLOOKUP, Power Query), Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA), Feature Engineering, Data Preprocessing  
-
-### 🤖 Machine Learning & AI  
-Linear & Logistic Regression, Decision Trees, Random Forest, KNN, SVM, Naive Bayes, PCA, K-Means, Isolation Forest, One-Class SVM (Anomaly Detection), Scikit-learn, Model Evaluation (ROC-AUC, Confusion Matrix, Cross-Validation), Hyperparameter Tuning (GridSearchCV), NLP (TF-IDF, Text Classification)  
-
-### 🧠 Deep Learning  
-ANN, CNN, RNN, Autoencoders, TensorFlow, Keras, PyTorch (basics), Model Training & Optimization  
-
-### 📊 Visualization & BI  
-Matplotlib, Seaborn, Power BI, KPI Reporting, Data Storytelling, Trend Analysis  
-
-### 🛠 Tools & Technologies  
-Git, GitHub, Jupyter Notebook, VS Code, Streamlit, REST APIs, Model Deployment Basics, Prompt Engineering  
+I enjoy working at the intersection of **data, algorithms, and system design** to develop intelligent and production-aware ML solutions.
 
 ---
 
-# 🔥 Featured Project
+## 🔹 Technical Skills  
 
-## 🧠 Privacy-Preserving Federated Learning Pipeline
+### 💻 Programming & Data Engineering  
+- Python, SQL (MySQL, PostgreSQL)  
+- Pandas, NumPy  
+- Data Cleaning, Feature Engineering, EDA, Data Preprocessing  
 
-Built a distributed deep learning system using **TensorFlow Federated** where multiple clients train models locally and share only model updates with a central server using Federated Averaging.
+### 🤖 Machine Learning  
+- Regression & Classification Models  
+- Random Forest, SVM, KNN, Naive Bayes  
+- PCA, K-Means, Isolation Forest, One-Class SVM  
+- Model Evaluation (ROC-AUC, Cross-Validation, Confusion Matrix)  
+- Hyperparameter Tuning (GridSearchCV)  
 
-### 🚀 Key Highlights
-- Simulated multi-client distributed training  
-- Implemented secure weight aggregation (Federated Averaging)  
-- Achieved **96.7% global accuracy on MNIST**  
-- Demonstrated privacy-preserving AI model training without sharing raw data  
-- Designed a modular and scalable architecture for real-world distributed environments  
+### 🧠 Deep Learning & AI  
+- ANN, CNN, RNN, Autoencoders  
+- TensorFlow, Keras, PyTorch (Foundations)  
+- Transfer Learning  
+- NLP (TF-IDF, Text Classification)  
 
-### 🛠 Tech Stack
-Python, TensorFlow, TensorFlow Federated, NumPy, Scikit-learn, Matplotlib  
-
-📌 Focus Areas: Distributed Learning, Privacy-Preserving AI, Deep Learning Systems  
+### 📊 Visualization & Deployment  
+- Matplotlib, Seaborn, Power BI  
+- Streamlit, FastAPI (Basics), REST APIs  
+- Git, GitHub, Jupyter Notebook  
 
 ---
 
-## 🔹 Connect with Me
-- [GitHub](https://github.com/saumyaaa4)  
-- [LinkedIn](https://www.linkedin.com/in/saumya-bhagat/)  
+# 🚀 Featured Project  
+
+## 🔐 Privacy-Preserving Federated Learning System  
+
+Designed and implemented a **distributed deep learning pipeline** using **TensorFlow Federated (TFF)** to enable decentralized model training without sharing raw data.
+
+### 🔎 Key Highlights  
+- Simulated 10 distributed clients on the MNIST dataset (60,000+ samples)  
+- Implemented Federated Averaging (FedAvg) for secure weight aggregation  
+- Achieved 96.7% global test accuracy (within 2–3% of centralized baseline)  
+- Conducted 20+ communication rounds to evaluate convergence behavior  
+- Built a modular architecture adaptable to privacy-sensitive environments  
+
+**Tech Stack:** Python, TensorFlow, TensorFlow Federated, NumPy, Scikit-learn, Matplotlib  
+
+**Focus Areas:** Federated Learning, Distributed AI, Privacy-Preserving ML, Deep Learning Systems  
 
 ---
 
-✨ I’m actively seeking opportunities in **AI/ML roles** where I can contribute to building intelligent, scalable, and impactful systems.
+## 🌐 Connect With Me  
+
+- GitHub: https://github.com/saumyaaa4  
+- LinkedIn: https://www.linkedin.com/in/saumya-bhagat/  
+
+---
+
+✨ Currently seeking AI/ML opportunities where I can contribute to building scalable, intelligent systems and advance in applied machine learning and distributed AI.
