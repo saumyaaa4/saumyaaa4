@@ -1,5 +1,6 @@
 # Saumya Bhagat
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&width=600&lines=ML+Engineer+%7C+Privacy-Preserving+AI;Federated+Learning+%7C+Anomaly+Detection;Open+to+Remote+Roles+%F0%9F%8C%8F)](https://git.io/typing-svg)
+
 I build ML systems that solve real problems — not just notebooks that look good on a slide. My work sits at the intersection of privacy, security, and applied machine learning: the kind of problems where getting it wrong has actual consequences.
 
 Final-year B.Tech CSE (Data Science) student. Based in India. Available for remote roles globally.
