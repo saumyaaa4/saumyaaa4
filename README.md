@@ -1,64 +1,52 @@
-# 👋 Hi, I’m Saumya Bhagat  
+# Saumya Bhagat
 
-🎓 B.Tech CSE (Data Science) | 💡 Aspiring AI/ML Engineer  
+I build ML systems that solve real problems — not just notebooks that look good on a slide. My work sits at the intersection of privacy, security, and applied machine learning: the kind of problems where getting it wrong has actual consequences.
 
-I build **end-to-end Machine Learning systems** that transform complex data into scalable, high-impact solutions. My interests include **Distributed AI, Deep Learning, NLP, and Applied Machine Learning**, with a strong focus on model performance, optimization, and real-world deployment.
-
-I enjoy working at the intersection of **data, algorithms, and system design** to develop intelligent and production-aware ML solutions.
+Final-year B.Tech CSE (Data Science) student. Based in India. Available for remote roles globally.
 
 ---
 
-## 🔹 Technical Skills  
+## What I actually work with
 
-### 💻 Programming & Data Engineering  
-- Python, SQL (MySQL, PostgreSQL)  
-- Pandas, NumPy  
-- Data Cleaning, Feature Engineering, EDA, Data Preprocessing  
-
-### 🤖 Machine Learning  
-- Regression & Classification Models  
-- Random Forest, SVM, KNN, Naive Bayes  
-- PCA, K-Means, Isolation Forest, One-Class SVM  
-- Model Evaluation (ROC-AUC, Cross-Validation, Confusion Matrix)  
-- Hyperparameter Tuning (GridSearchCV)  
-
-### 🧠 Deep Learning & AI  
-- ANN, CNN, RNN, Autoencoders  
-- TensorFlow, Keras, PyTorch (Foundations)  
-- Transfer Learning  
-- NLP (TF-IDF, Text Classification)  
-
-### 📊 Visualization & Deployment  
-- Matplotlib, Seaborn, Power BI  
-- Streamlit, FastAPI (Basics), REST APIs  
-- Git, GitHub, Jupyter Notebook  
+`Python` `TensorFlow` `PyTorch` `Scikit-learn` `FastAPI` `Streamlit` `SQL` `Federated Learning` `NLP` `Anomaly Detection` `MLOps` `Docker`
 
 ---
 
-# 🚀 Featured Project  
+## Projects
 
-## 🔐 Privacy-Preserving Federated Learning System  
+### 🔐 Federated Learning — Privacy-Preserving Diabetes Prediction
+Built FedAvg from scratch to train a diabetes prediction model across 10 simulated hospitals — without a single patient record ever leaving its source institution. Reached **96.7% global accuracy** across 20+ communication rounds, within 2–3% of a centralized baseline. Designed for real privacy-sensitive healthcare environments.
 
-Designed and implemented a **distributed deep learning pipeline** using **TensorFlow Federated (TFF)** to enable decentralized model training without sharing raw data.
-
-### 🔎 Key Highlights  
-- Simulated 10 distributed clients on the MNIST dataset (60,000+ samples)  
-- Implemented Federated Averaging (FedAvg) for secure weight aggregation  
-- Achieved 96.7% global test accuracy (within 2–3% of centralized baseline)  
-- Conducted 20+ communication rounds to evaluate convergence behavior  
-- Built a modular architecture adaptable to privacy-sensitive environments  
-
-**Tech Stack:** Python, TensorFlow, TensorFlow Federated, NumPy, Scikit-learn, Matplotlib  
-
-**Focus Areas:** Federated Learning, Distributed AI, Privacy-Preserving ML, Deep Learning Systems  
+`TensorFlow Federated` `NumPy` `Scikit-learn` `Matplotlib`
 
 ---
 
-## 🌐 Connect With Me  
+### 🚨 Insider Threat Detection System
+Behavioural anomaly detection engine that identifies malicious insiders from enterprise security logs. Uses a hybrid supervised + unsupervised ensemble — combining Isolation Forest and One-Class SVM with classification models — to flag threats that rule-based systems miss entirely.
 
-- GitHub: https://github.com/saumyaaa4  
-- LinkedIn: https://www.linkedin.com/in/saumya-bhagat/  
+`Python` `Scikit-learn` `Isolation Forest` `One-Class SVM` `Pandas`
 
 ---
 
-✨ Currently seeking AI/ML opportunities where I can contribute to building scalable, intelligent systems and advance in applied machine learning and distributed AI.
+### 📉 Customer Churn Prediction & Revenue Impact Engine
+End-to-end ML pipeline that doesn't just predict who's leaving — it quantifies how much revenue is at risk. Turns model output into actionable retention decisions with a business-readable dashboard. Built so non-technical stakeholders can actually use it.
+
+`Python` `XGBoost` `Streamlit` `Pandas` `Matplotlib`
+
+---
+
+## Currently building
+
+Exploring `LLM fine-tuning` and `RAG pipelines` — the two skills every serious ML role is asking for right now. Also going deeper on `MLOps` (model versioning, deployment, monitoring) and vector databases. If you're working on something at this intersection, let's talk.
+
+---
+
+## What I'm looking for
+
+Remote ML/AI engineering roles or internships where I can work on real systems — not internal tooling demos. Particularly interested in teams working on security AI, privacy-preserving ML, or production model deployment.
+
+---
+
+## Reach me
+
+📧 saumyaachiever20@gmail.com  ·  [LinkedIn](https://www.linkedin.com/in/saumya-bhagat/)  ·  [GitHub](https://github.com/saumyaaa4)
